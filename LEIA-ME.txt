@@ -1,0 +1,27 @@
+LAVOICE — Windows 10/11 (64 bits)
+
+Abra o LAVOICE.exe. A primeira abertura demora um pouco porque o jogo prepara
+os arquivos de voz. Depois fica rápido. O reconhecimento de voz roda no seu PC,
+sem internet.
+
+Como jogar está no menu, em COMO JOGAR. O básico:
+- segure V, fale o que quer e solte;
+- um toque rápido em V liga a extração: segure o clique mirando no cenário
+  pra juntar matéria. Sem matéria não dá pra criar nada;
+- no online, segure CAPS LOCK pra conversar;
+- Esc abre as configurações (microfone, teste de voz, controles).
+
+JOGAR COM AMIGOS
+Quem cria a sala passa o IP pros outros. Longe um do outro, usem o Radmin VPN
+e o IP do Radmin; na mesma casa, o IP da rede local. Porta 27840 (UDP).
+Se não conectar, libere o LAVOICE no Firewall do Windows de quem criou a sala.
+
+DEU PROBLEMA?
+Esc > DIAGNÓSTICO tem os botões que abrem as pastas de registros. Mande esses
+arquivos junto com o que aconteceu. Eles não guardam áudio nem nomes.
+
+O Windows pode avisar que o aplicativo é desconhecido: o jogo não tem
+assinatura digital de publicador. Para conferir se o arquivo é o original,
+compare o SHA-256 com o da página do jogo.
+
+Créditos e licenças: CREDITOS.txt, LICENCA.txt e a pasta licenses.

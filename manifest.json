@@ -1,0 +1,167 @@
+[
+  {
+    "path": "concrt140.dll",
+    "size": 374200,
+    "sha256": "54716f0738af891f283d213b5c8d11b25896bb8ee3097d301eae718560cf974e"
+  },
+  {
+    "path": "CREDITOS.txt",
+    "size": 899,
+    "sha256": "86c96716123c0749fbef36b4ad2b04babe3ea0037ded565643f49f24ce81eba8"
+  },
+  {
+    "path": "LAVOICE.exe",
+    "size": 136127320,
+    "sha256": "c89c629ac5924b72bfa6c0fcab3ec67e1af8c49cc88f548d1f25f5ddfc061ce7"
+  },
+  {
+    "path": "LEIA-ME.txt",
+    "size": 1231,
+    "sha256": "5a88b14cde7b132ae859a26456878b865b6ff315a5ddf8fae0f8827a4a1b1654"
+  },
+  {
+    "path": "LICENCA.txt",
+    "size": 4904,
+    "sha256": "525f8dd7cf2e400526d378487a68b8609a0eaa9018208ea53bbb5d3f38acaf9a"
+  },
+  {
+    "path": "licenses/Direct3D12-LICENSE-CODE.txt",
+    "size": 1093,
+    "sha256": "903df5512f7d02609fed0c780a9b704f5a3eeb6e4d84ebe42a29845c81899a3c"
+  },
+  {
+    "path": "licenses/Direct3D12-LICENSE.txt",
+    "size": 13147,
+    "sha256": "5239850894610071566f7ecee0b751fde43c862032d92b99d7d0f596b3433ebd"
+  },
+  {
+    "path": "licenses/Godot-LICENSE.txt",
+    "size": 1149,
+    "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
+  },
+  {
+    "path": "licenses/Godot-ThirdPartyNotices.txt",
+    "size": 100108,
+    "sha256": "cb1980c88089573bcacd7221d777c689bb8bbd778799f24c27fca0fe5f774d6d"
+  },
+  {
+    "path": "licenses/Oxanium-OFL.txt",
+    "size": 4384,
+    "sha256": "fe17c0f2581d71b4e1ea7e636e7f4877c29223e11bb1dd1a871e8c3f2a86336b"
+  },
+  {
+    "path": "msvcp140.dll",
+    "size": 643512,
+    "sha256": "7c26614e1d733892c2deac7e245ce115504b1d80592dd0a01b08e3e5a55f89ca"
+  },
+  {
+    "path": "msvcp140_1.dll",
+    "size": 35768,
+    "sha256": "206c931bf90fdad8816de3b5e2ef80b2bcaa9406c89ecc05fe6fddffe251e982"
+  },
+  {
+    "path": "msvcp140_2.dll",
+    "size": 274872,
+    "sha256": "d50d7883f20d1dc6191768d3746f52dd9cac89c346ffaed5be1f110c2f34a838"
+  },
+  {
+    "path": "msvcp140_atomic_wait.dll",
+    "size": 57792,
+    "sha256": "3d0cbfaa1bf3eecf5a3f4491d2960ee803cb994f30292c6adc4a07c498f60e2b"
+  },
+  {
+    "path": "vcruntime140.dll",
+    "size": 178616,
+    "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7"
+  },
+  {
+    "path": "vcruntime140_1.dll",
+    "size": 50112,
+    "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e"
+  },
+  {
+    "path": "voice/sherpa/models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8/bpe.vocab",
+    "size": 102132,
+    "sha256": "94324cbca44ab60dedc5a8d9b820d7698008e14035c8f82764ac49e453e83d5a"
+  },
+  {
+    "path": "voice/sherpa/models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8/decoder.int8.onnx",
+    "size": 11845275,
+    "sha256": "179e50c43d1a9de79c8a24149a2f9bac6eb5981823f2a2ed88d655b24248db4e"
+  },
+  {
+    "path": "voice/sherpa/models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8/encoder.int8.onnx",
+    "size": 652184281,
+    "sha256": "acfc2b4456377e15d04f0243af540b7fe7c992f8d898d751cf134c3a55fd2247"
+  },
+  {
+    "path": "voice/sherpa/models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8/joiner.int8.onnx",
+    "size": 6355277,
+    "sha256": "3164c13fc2821009440d20fcb5fdc78bff28b4db2f8d0f0b329101719c0948b3"
+  },
+  {
+    "path": "voice/sherpa/models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8/tokens.txt",
+    "size": 93939,
+    "sha256": "d58544679ea4bc6ac563d1f545eb7d474bd6cfa467f0a6e2c1dc1c7d37e3c35d"
+  },
+  {
+    "path": "voice/sherpa/sidecar/concrt140.dll",
+    "size": 374200,
+    "sha256": "54716f0738af891f283d213b5c8d11b25896bb8ee3097d301eae718560cf974e"
+  },
+  {
+    "path": "voice/sherpa/sidecar/creativoz.exe",
+    "size": 17408,
+    "sha256": "9707a8f58368caba0ff97bb427160d38229371bc2c70f722886bef369bf78e91"
+  },
+  {
+    "path": "voice/sherpa/sidecar/msvcp140.dll",
+    "size": 643512,
+    "sha256": "7c26614e1d733892c2deac7e245ce115504b1d80592dd0a01b08e3e5a55f89ca"
+  },
+  {
+    "path": "voice/sherpa/sidecar/msvcp140_1.dll",
+    "size": 35768,
+    "sha256": "206c931bf90fdad8816de3b5e2ef80b2bcaa9406c89ecc05fe6fddffe251e982"
+  },
+  {
+    "path": "voice/sherpa/sidecar/msvcp140_2.dll",
+    "size": 274872,
+    "sha256": "d50d7883f20d1dc6191768d3746f52dd9cac89c346ffaed5be1f110c2f34a838"
+  },
+  {
+    "path": "voice/sherpa/sidecar/msvcp140_atomic_wait.dll",
+    "size": 57792,
+    "sha256": "3d0cbfaa1bf3eecf5a3f4491d2960ee803cb994f30292c6adc4a07c498f60e2b"
+  },
+  {
+    "path": "voice/sherpa/sidecar/onnxruntime.dll",
+    "size": 17136128,
+    "sha256": "422d776ab0e3218260f7f628fcb84606aaa5c21116f720c8619a6da5e0b2e0f9"
+  },
+  {
+    "path": "voice/sherpa/sidecar/onnxruntime_providers_shared.dll",
+    "size": 10752,
+    "sha256": "0190137dee4933261c065c5d030c3568a68c7aa43cad942b4726a07011738bc2"
+  },
+  {
+    "path": "voice/sherpa/sidecar/sherpa-onnx-c-api.dll",
+    "size": 2882048,
+    "sha256": "5616605dc07ffbcf1cd6a001c2c76e826b9e1710e0fe17dfc3412de3a28df6a5"
+  },
+  {
+    "path": "voice/sherpa/sidecar/vcruntime140.dll",
+    "size": 178616,
+    "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7"
+  },
+  {
+    "path": "voice/sherpa/sidecar/vcruntime140_1.dll",
+    "size": 50112,
+    "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e"
+  },
+  {
+    "path": "x86_64/D3D12Core.dll",
+    "size": 4821064,
+    "sha256": "560f9574372a52ab66ad95ee1222f1eb4c9f6161d8f6b7b025d89f684b07246c"
+  }
+]
